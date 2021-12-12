@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loafDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loaff0000" x="3" y="3" width="462" height="465" frameX="-79" frameY="-28" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0001" x="3" y="3" width="462" height="465" frameX="-79" frameY="-28" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0002" x="3" y="3" width="462" height="465" frameX="-79" frameY="-28" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0003" x="476" y="3" width="462" height="442" frameX="-95" frameY="-51" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0004" x="476" y="3" width="462" height="442" frameX="-95" frameY="-51" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0005" x="949" y="3" width="463" height="456" frameX="-109" frameY="-37" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0006" x="949" y="3" width="463" height="456" frameX="-109" frameY="-37" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0007" x="1423" y="3" width="463" height="475" frameX="-105" frameY="-18" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0008" x="1423" y="3" width="463" height="475" frameX="-105" frameY="-18" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0009" x="3" y="489" width="463" height="493" frameX="-86" frameY="0" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0010" x="3" y="489" width="463" height="493" frameX="-86" frameY="0" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0011" x="3" y="489" width="463" height="493" frameX="-86" frameY="0" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0012" x="477" y="489" width="465" height="489" frameX="-62" frameY="-4" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0013" x="477" y="489" width="465" height="489" frameX="-62" frameY="-4" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0014" x="953" y="489" width="469" height="476" frameX="-30" frameY="-17" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0015" x="1433" y="489" width="472" height="456" frameX="-9" frameY="-37" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0016" x="1433" y="489" width="472" height="456" frameX="-9" frameY="-37" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0017" x="1433" y="489" width="472" height="456" frameX="-9" frameY="-37" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0018" x="3" y="993" width="474" height="452" frameX="0" frameY="-41" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0019" x="3" y="993" width="474" height="452" frameX="0" frameY="-41" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0020" x="3" y="993" width="474" height="452" frameX="0" frameY="-41" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0021" x="488" y="993" width="470" height="471" frameX="-22" frameY="-22" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0022" x="488" y="993" width="470" height="471" frameX="-22" frameY="-22" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0023" x="969" y="993" width="467" height="476" frameX="-43" frameY="-17" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0024" x="969" y="993" width="467" height="476" frameX="-43" frameY="-17" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0025" x="969" y="993" width="467" height="476" frameX="-43" frameY="-17" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0026" x="1447" y="993" width="465" height="479" frameX="-56" frameY="-14" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0027" x="1447" y="993" width="465" height="479" frameX="-56" frameY="-14" frameWidth="572" frameHeight="493"/>
+	<SubTexture name="loaff0028" x="1447" y="993" width="465" height="479" frameX="-56" frameY="-14" frameWidth="572" frameHeight="493"/>
+</TextureAtlas>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loafSnoozeTitle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snooze0000" x="0" y="0" width="329" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0001" x="357" y="0" width="331" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0002" x="716" y="0" width="334" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0003" x="1078" y="0" width="336" height="153" frameX="-1" frameY="-3" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0004" x="1442" y="0" width="342" height="153" frameX="-1" frameY="-3" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0005" x="0" y="181" width="342" height="154" frameX="-2" frameY="-2" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0006" x="370" y="181" width="342" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0007" x="740" y="181" width="342" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0008" x="1110" y="181" width="342" height="156" frameX="-3" frameY="0" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0009" x="1480" y="181" width="342" height="156" frameX="-3" frameY="0" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0010" x="0" y="365" width="311" height="156" frameX="-3" frameY="0" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0011" x="339" y="365" width="311" height="156" frameX="-3" frameY="0" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0012" x="678" y="365" width="311" height="156" frameX="-3" frameY="0" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0013" x="339" y="365" width="311" height="156" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0014" x="1017" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0015" x="1356" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0016" x="1356" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0017" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0018" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0019" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0020" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0021" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0022" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0023" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0024" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0025" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0026" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0027" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0028" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0029" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0030" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0031" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0032" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0033" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0034" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0035" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0036" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0037" x="1695" y="365" width="311" height="155" frameX="-3" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0038" x="0" y="549" width="312" height="155" frameX="-2" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0039" x="340" y="549" width="312" height="155" frameX="-2" frameY="-1" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0040" x="680" y="549" width="312" height="154" frameX="-2" frameY="-2" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0041" x="1020" y="549" width="313" height="153" frameX="-1" frameY="-3" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0042" x="1361" y="549" width="314" height="153" frameX="-1" frameY="-3" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0043" x="1703" y="549" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0044" x="0" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0045" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0046" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0047" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0048" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0049" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0050" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0051" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0052" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0053" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0054" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0055" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0056" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0057" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+	<SubTexture name="snooze0058" x="343" y="732" width="315" height="152" frameX="0" frameY="-4" frameWidth="345" frameHeight="156"/>
+</TextureAtlas>
