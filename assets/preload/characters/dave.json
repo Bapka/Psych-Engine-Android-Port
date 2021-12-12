@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-64,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				36,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-50,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-78,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-30,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				140
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "realleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "realright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				100
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "realdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				136
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "realup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "the gun"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				71
+			],
+			"anim": "fuckyou",
+			"fps": 24,
+			"name": "fuckyou",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-41,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt1",
+			"loop": false,
+			"name": "realidle"
+		},
+		{
+			"offsets": [
+				-79,
+				101
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt2",
+			"loop": false,
+			"name": "comedy"
+		},
+		{
+			"offsets": [
+				-35,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt3",
+			"loop": false,
+			"name": "FUCKIDLE"
+		},
+		{
+			"offsets": [
+				-10,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt4",
+			"loop": false,
+			"name": "funkyIdle"
+		},
+		{
+			"offsets": [
+				3,
+				137
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt5",
+			"loop": false,
+			"name": "HE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		-170,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

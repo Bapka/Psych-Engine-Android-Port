@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				302
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Aflac Idle"
+		},
+		{
+			"offsets": [
+				118,
+				301
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Aflac Left"
+		},
+		{
+			"offsets": [
+				116,
+				303
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Aflac Down"
+		},
+		{
+			"offsets": [
+				134,
+				301
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Aflac Up"
+		},
+		{
+			"offsets": [
+				124,
+				302
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Aflac Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neoAflac2",
+	"position": [
+		-160,
+		250
+	],
+	"healthicon": "neoaflac2",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		255
+	],
+	"camera_position": [
+		-250,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

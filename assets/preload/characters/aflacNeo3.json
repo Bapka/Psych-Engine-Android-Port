@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				342
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Aflac_God_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				361
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Aflac_God_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				312
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Aflac_God_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				431
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Aflac_God_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				342
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Aflac_God_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Aflac_God_Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aflacNeoGM1",
+	"position": [
+		-160,
+		250
+	],
+	"healthicon": "neoaflac3",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		100,
+		255
+	],
+	"camera_position": [
+		-300,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 0.899999999999999
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				221
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				221
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				218
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/otherDave",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "otherdave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		96,
+		255
+	],
+	"camera_position": [
+		-270,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

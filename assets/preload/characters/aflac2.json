@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aflacbutangry",
+	"position": [
+		-230,
+		30
+	],
+	"healthicon": "aflac2",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		196,
+		255
+	],
+	"camera_position": [
+		80,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 0.599999999999999
+}

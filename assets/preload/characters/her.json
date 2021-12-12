@@ -1,13 +1,14 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				16,
+				17,
 				-9
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat",
 			"indices": [
 				30,
 				0,
@@ -25,17 +26,17 @@
 				12,
 				13,
 				14
-			],
-			"name": "GF Dancing Beat"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
 				17,
 				-9
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat",
 			"indices": [
 				15,
 				16,
@@ -52,40 +53,38 @@
 				27,
 				28,
 				29
-			],
-			"name": "GF Dancing Beat"
+			]
 		},
 		{
+			"offsets": [
+				17,
+				-17
+			],
 			"loop": true,
-			"offsets": [
-				3,
-				-27
-			],
+			"fps": 24,
 			"anim": "scared",
-			"fps": 24,
-			"name": "GF FEAR",
-			"indices": []
+			"indices": [],
+			"name": "GF FEAR"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-3,
-				0
+				17,
+				1
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "cheer",
-			"fps": 24,
-			"name": "GF Cheer",
-			"indices": []
+			"indices": [],
+			"name": "GF Cheer"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-9,
-				-19
+				17,
+				-17
 			],
-			"anim": "sad",
+			"loop": false,
 			"fps": 24,
-			"name": "gf sad",
+			"anim": "sad",
 			"indices": [
 				0,
 				1,
@@ -100,11 +99,12 @@
 				10,
 				11,
 				12
-			]
+			],
+			"name": "gf sad"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/GF_New",
+	"no_antialiasing": false,
+	"image": "characters/her",
 	"position": [
 		0,
 		0
