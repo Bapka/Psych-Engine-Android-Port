@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-360,
+				-119
+			],
+			"indices": [],
+			"fps": 0,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				-360,
+				-119
+			],
+			"indices": [],
+			"fps": 0,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/greenhill-lol",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 10
+}
