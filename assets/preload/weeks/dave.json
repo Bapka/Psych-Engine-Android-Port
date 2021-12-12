@@ -1,0 +1,43 @@
+{
+	"songs": [
+		[
+			"chaos",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		],
+		[
+			"crisis",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		],
+		[
+			"destruction",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		]
+	],
+	"weekCharacters": [
+		"dave",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "ohhhh ma gawwwd",
+	"weekBefore": "rematch",
+	"weekName": "dave",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

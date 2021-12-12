@@ -1,0 +1,35 @@
+{
+	"songs": [
+		[
+			"trance",
+			"aflac",
+			[
+				65,
+				156,
+				62
+			]
+		],
+		[
+			"copy cat",
+			"copycat",
+			[
+				97,
+				145,
+				255
+			]
+		]
+		
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"storyName": "Bonus Songs",
+	"weekBefore": "rematch",
+	"weekName": "bonus",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
