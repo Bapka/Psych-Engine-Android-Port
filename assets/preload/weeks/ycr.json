@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"You Cant Run",
+			"sans",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"sans",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sans.exe???",
+	"weekName": "You Cant Run",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
