@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "chara"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/charaidle",
+	"position": [
+		-100,
+		190
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		150,
+		-250
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
