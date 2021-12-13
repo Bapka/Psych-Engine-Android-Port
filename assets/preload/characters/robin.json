@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				311,
+				-159
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-266
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				105,
+				-90
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-143
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				-147
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				84,
+				-147
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				84,
+				-97
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				84,
+				-97
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				84,
+				-97
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				-159
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pibbyrobin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "robin",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		75,
+		95
+	],
+	"camera_position": [
+		-190,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
